@@ -10,5 +10,4 @@
 
 ### Research
 - front-end ML (private presverving)
-- Time Series DM
-- Mutiple-channel data handle (medical data)
+- Mutiple-channel Time Series DM
