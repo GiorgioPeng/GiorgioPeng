@@ -9,5 +9,5 @@
 </div>
 
 ### Research
-- front-end ML (private presverving)
+- Front-End ML
 - Mutiple-channel Time Series DM
