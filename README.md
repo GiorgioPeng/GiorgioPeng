@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgiopeng&label=Profile%20views&color=5b61e5&style=square" alt="giorgiopeng" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giorgiopeng" alt="giorgiopeng" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giorgiopeng&theme=alduin" alt="giorgiopeng" /></a> </p>
 
 - 🌱 I’m currently learning **Front-end Machine Learning, Dynamic Graph**
 
