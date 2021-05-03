@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giorgio</h1>
-<h3 align="center">A postgraduate from Beijing Jiaotong University.</h3>
+<!--<h3 align="center">A postgraduate from Beijing Jiaotong University.</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgiopeng&label=Profile%20views&color=5b61e5&style=square" alt="giorgiopeng" /> </p>
 
